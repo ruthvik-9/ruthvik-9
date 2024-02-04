@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ruthvik-9
 - 👀 I’m interested in ...Data Engineering & Analytics- Azure Cloud
-- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python Libraries,for solving Data related Queries
 - 📫 
 
